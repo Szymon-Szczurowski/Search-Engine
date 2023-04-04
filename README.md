@@ -1,3 +1,3 @@
 # Search-Engine
 
-https://szymon-szczurowski.github.io/Search-Engine/
+[Search Engine](https://szymonszczurowski.github.io/Search-Engine/)
